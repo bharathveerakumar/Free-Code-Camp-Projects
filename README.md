@@ -7,5 +7,8 @@
 <br> <br>
 <a href="https://friendly-pare-6c07a1.netlify.app/survey%20form/">Survey Form</a>
 <br> <br>
+<a href="https://friendly-pare-6c07a1.netlify.app/technical%20documentation%20page/">Technical Documentation Page</a>
+<br> <br>
+<a href="
 
 
