@@ -1,9 +1,9 @@
 # Free-Code-Camp-Projects
 
 <br>
-<a href="1. https://friendly-pare-6c07a1.netlify.app/portfolio/">Portfolio</a>
+<a href="https://friendly-pare-6c07a1.netlify.app/portfolio/">1. Portfolio</a>
 <br> <br>
-<a href="https://friendly-pare-6c07a1.netlify.app/product%20landing%20page/">Product-Landing-Page</a>
+<a href="https://friendly-pare-6c07a1.netlify.app/product%20landing%20page/">2. Product-Landing-Page</a>
 <br> <br>
 <a href="https://friendly-pare-6c07a1.netlify.app/survey%20form/">Survey Form</a>
 <br> <br>
